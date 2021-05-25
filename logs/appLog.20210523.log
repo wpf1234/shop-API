@@ -1,0 +1,98 @@
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-23 14:24:12"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-23 14:24:12"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:91","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-23 14:24:12"}
+{"file":"F:/GoPath/src/testAPI/handle/login.go:22","func":"testAPI/handle.(*Gin).Login","level":"info","msg":"Login: {0 test test123}","time":"2021-05-23 14:24:33"}
+{"file":"F:/GoPath/src/testAPI/handle/login.go:22","func":"testAPI/handle.(*Gin).Login","level":"info","msg":"Login: {0 test test123}","time":"2021-05-23 14:29:24"}
+{"file":"F:/GoPath/src/testAPI/handle/login.go:22","func":"testAPI/handle.(*Gin).Login","level":"info","msg":"Login: {0 test qwer1234}","time":"2021-05-23 14:33:05"}
+{"file":"F:/GoPath/src/testAPI/handle/login.go:22","func":"testAPI/handle.(*Gin).Login","level":"info","msg":"Login: {0 test qwer1234}","time":"2021-05-23 14:33:17"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-23 14:34:59"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-23 14:34:59"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:91","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-23 14:34:59"}
+{"file":"F:/GoPath/src/testAPI/handle/login.go:22","func":"testAPI/handle.(*Gin).Login","level":"info","msg":"Login: {0 test qwer1234}","time":"2021-05-23 14:36:14"}
+{"file":"F:/GoPath/src/testAPI/handle/login.go:22","func":"testAPI/handle.(*Gin).Login","level":"info","msg":"Login: {0 test qwer1234}","time":"2021-05-23 14:36:32"}
+{"file":"F:/GoPath/src/testAPI/handle/login.go:22","func":"testAPI/handle.(*Gin).Login","level":"info","msg":"Login: {0 test qwer1234}","time":"2021-05-23 14:37:06"}
+{"file":"F:/GoPath/src/testAPI/handle/login.go:22","func":"testAPI/handle.(*Gin).Login","level":"info","msg":"Login: {0 test qwer1234}","time":"2021-05-23 14:37:30"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-23 14:37:59"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-23 14:37:59"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:91","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-23 14:37:59"}
+{"file":"F:/GoPath/src/testAPI/handle/login.go:22","func":"testAPI/handle.(*Gin).Login","level":"info","msg":"Login: {0 test qwer1234}","time":"2021-05-23 14:38:59"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-23 14:39:32"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-23 14:39:32"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:91","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-23 14:39:32"}
+{"file":"F:/GoPath/src/testAPI/handle/login.go:22","func":"testAPI/handle.(*Gin).Login","level":"info","msg":"Login: {0 test qwer1234}","time":"2021-05-23 14:39:41"}
+{"file":"F:/GoPath/src/testAPI/handle/login.go:22","func":"testAPI/handle.(*Gin).Login","level":"info","msg":"Login: {0 test test123}","time":"2021-05-23 14:41:00"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-23 14:41:28"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-23 14:41:28"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:91","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-23 14:41:28"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-23 14:41:42"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-23 14:41:42"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:91","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-23 14:41:42"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-23 14:41:46"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-23 14:41:46"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:91","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-23 14:41:46"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-23 14:51:37"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-23 14:51:37"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:91","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-23 14:51:37"}
+{"file":"F:/GoPath/src/testAPI/handle/login.go:62","func":"testAPI/handle.(*Gin).Login","level":"info","msg":"用户密码错误!","time":"2021-05-23 14:51:44"}
+{"file":"F:/GoPath/src/testAPI/handle/login.go:62","func":"testAPI/handle.(*Gin).Login","level":"info","msg":"用户密码错误!","time":"2021-05-23 14:52:39"}
+{"file":"F:/GoPath/src/testAPI/handle/login.go:62","func":"testAPI/handle.(*Gin).Login","level":"info","msg":"用户密码错误!","time":"2021-05-23 14:52:57"}
+{"file":"F:/GoPath/src/testAPI/handle/login.go:62","func":"testAPI/handle.(*Gin).Login","level":"info","msg":"用户密码错误!","time":"2021-05-23 15:10:40"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-23 15:28:02"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-23 15:28:02"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:91","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-23 15:28:02"}
+{"file":"F:/GoPath/src/testAPI/middleware/jwt.go:28","func":"testAPI/middleware.JWTAuth.func1","level":"error","msg":"Token解析失败!","time":"2021-05-23 15:29:20"}
+{"file":"F:/GoPath/src/testAPI/middleware/jwt.go:28","func":"testAPI/middleware.JWTAuth.func1","level":"error","msg":"Token解析失败!","time":"2021-05-23 15:29:23"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-23 15:31:51"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-23 15:31:51"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:91","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-23 15:31:51"}
+{"file":"F:/GoPath/src/testAPI/middleware/jwt.go:28","func":"testAPI/middleware.JWTAuth.func1","level":"error","msg":"Token解析失败!","time":"2021-05-23 15:32:11"}
+{"file":"F:/GoPath/src/testAPI/middleware/jwt.go:28","func":"testAPI/middleware.JWTAuth.func1","level":"error","msg":"Token解析失败!","time":"2021-05-23 15:32:33"}
+{"file":"F:/GoPath/src/testAPI/middleware/jwt.go:28","func":"testAPI/middleware.JWTAuth.func1","level":"error","msg":"Token解析失败!","time":"2021-05-23 15:33:18"}
+{"file":"F:/GoPath/src/testAPI/middleware/jwt.go:28","func":"testAPI/middleware.JWTAuth.func1","level":"error","msg":"Token解析失败!","time":"2021-05-23 15:33:22"}
+{"file":"F:/GoPath/src/testAPI/middleware/jwt.go:28","func":"testAPI/middleware.JWTAuth.func1","level":"error","msg":"Token解析失败!","time":"2021-05-23 15:34:39"}
+{"file":"F:/GoPath/src/testAPI/middleware/jwt.go:28","func":"testAPI/middleware.JWTAuth.func1","level":"error","msg":"Token解析失败!","time":"2021-05-23 15:34:43"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-23 15:40:51"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-23 15:40:51"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:91","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-23 15:40:51"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-23 15:41:45"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-23 15:41:45"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:91","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-23 15:41:45"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-23 15:55:17"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-23 15:55:17"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:91","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-23 15:55:17"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-23 15:55:53"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-23 15:55:53"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:91","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-23 15:55:53"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-23 15:58:27"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-23 15:58:27"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:91","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-23 15:58:27"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-23 15:59:42"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-23 15:59:42"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:91","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-23 15:59:42"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-23 16:02:13"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-23 16:02:13"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:91","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-23 16:02:13"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-23 16:03:11"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-23 16:03:11"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:91","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-23 16:03:11"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-23 16:05:37"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-23 16:05:37"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:91","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-23 16:05:37"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-23 16:25:04"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-23 16:25:04"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:91","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-23 16:25:04"}
+{"file":"F:/GoPath/src/testAPI/handle/products.go:28","func":"testAPI/handle.(*Gin).GetList","level":"error","msg":"获取页码失败: strconv.Atoi: parsing \"\": invalid syntax","time":"2021-05-23 17:52:05"}
+{"file":"F:/GoPath/src/testAPI/handle/products.go:28","func":"testAPI/handle.(*Gin).GetList","level":"error","msg":"获取页码失败: strconv.Atoi: parsing \"\": invalid syntax","time":"2021-05-23 17:52:09"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-23 17:57:34"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-23 17:57:34"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:91","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-23 17:57:34"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-23 17:58:36"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-23 17:58:36"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:91","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-23 17:58:36"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-23 18:27:20"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-23 18:27:20"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:79","func":"testAPI/confInit.Init","level":"error","msg":"Open mysql failed: dial tcp 127.0.0.1:3306: connectex: No connection could be made because the target machine actively refused it.","time":"2021-05-23 18:27:22"}
+{"file":"F:/GoPath/src/testAPI/handle/products.go:47","func":"testAPI/handle.(*Gin).GetList","level":"error","msg":"查询总数失败: sql: database is closed","time":"2021-05-23 18:28:28"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-23 18:29:11"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-23 18:29:11"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:91","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-23 18:29:11"}

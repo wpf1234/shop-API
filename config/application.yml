@@ -1,0 +1,11 @@
+test:
+  mysql:
+    user: test
+    password: mVQVAzqHaFfQoDoPhuPUIg==
+    host: 127.0.0.1:3306
+    db: test
+  aes:
+    key: encrypt_key_2021
+  log:
+    path: logs
+    file: appLog

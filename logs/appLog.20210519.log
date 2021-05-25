@@ -1,0 +1,27 @@
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-19 17:41:34"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:61","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-19 17:41:34"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:70","func":"testAPI/confInit.Init","level":"error","msg":"ASE decrypt failed: crypto/aes: invalid key size 0","time":"2021-05-19 17:41:34"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-19 17:43:20"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:61","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-19 17:43:20"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:71","func":"testAPI/confInit.Init","level":"error","msg":"ASE decrypt failed: crypto/aes: invalid key size 0","time":"2021-05-19 17:43:20"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-19 17:43:40"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:61","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-19 17:43:40"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:71","func":"testAPI/confInit.Init","level":"error","msg":"ASE decrypt failed: crypto/aes: invalid key size 0","time":"2021-05-19 17:43:40"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-19 17:44:36"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:61","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-19 17:44:36"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:71","func":"testAPI/confInit.Init","level":"error","msg":"ASE decrypt failed: crypto/aes: invalid key size 0","time":"2021-05-19 17:44:36"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-19 17:45:07"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:63","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-19 17:45:07"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:73","func":"testAPI/confInit.Init","level":"error","msg":"ASE decrypt failed: crypto/aes: invalid key size 0","time":"2021-05-19 17:45:07"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-19 17:45:39"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:63","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-19 17:45:39"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:73","func":"testAPI/confInit.Init","level":"error","msg":"ASE decrypt failed: crypto/aes: invalid key size 0","time":"2021-05-19 17:45:39"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-19 17:46:31"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:63","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-19 17:46:31"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:92","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-19 17:46:31"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-19 17:46:44"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:63","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-19 17:46:44"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:92","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-19 17:46:44"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:54","func":"testAPI/confInit.Init","level":"info","msg":"Aes 配置读取成功!","time":"2021-05-19 17:47:26"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:62","func":"testAPI/confInit.Init","level":"info","msg":"读取 Mysql 配置成功!","time":"2021-05-19 17:47:26"}
+{"file":"F:/GoPath/src/testAPI/confInit/base.go:91","func":"testAPI/confInit.Init","level":"info","msg":"数据库连接成功!","time":"2021-05-19 17:47:26"}
